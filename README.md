@@ -1,4 +1,5 @@
-Concept:
+![download](https://user-images.githubusercontent.com/79420053/182945048-81e0840a-59e4-4a1f-8474-07aa62dc9b6b.png)
+
 
 Airbnb allows individuals to rent all or part of their own home as a form of extra accommodation. The site provides a search and booking platform between the person offering the accommodation and the tourist looking for the rental. Covers over 500,000 ads in over 35,000 cities and 192 countries. From its inception in November 2008 to June 2012, more than 10 million bookings have been booked via Airbnb.# Análise dos Dados do Airbnb - *Germany/Berlin*
 
